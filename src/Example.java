@@ -8,12 +8,5 @@ import java.io.InputStreamReader;
 public class Example {
     public static void main(String[] args) throws IOException {
 
-        int a = 5;
-        int b = 4;
-        a = a + b;
-        b = b + a;
-        System.out.println(b);
-
-
     }
 }
