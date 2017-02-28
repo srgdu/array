@@ -40,7 +40,7 @@ public class ArraySell {
     public void insertionSort(){
 
         int in, out;
-        for(out = 0; out < nElem; out++){
+        for(out = 1; out < nElem; out++){
 
             long temp = a[out];
             in = out;
